@@ -1,1 +1,1 @@
-# Cross-Word Puzzle Game
+# Maze Solver Game
